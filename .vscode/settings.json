@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "map": "cpp",
+        "xstring": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp"
+    }
+}
